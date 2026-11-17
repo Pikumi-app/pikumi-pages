@@ -48,7 +48,7 @@ def render(language, page, content, site):
     if page != 'index':
         body += f'<section class="contact" id="contact"><h2>{escape(c["contact"])}</h2><p>{escape(site["brand"])} · {escape(c["developer"])}: {escape(site["developer"])}</p><p><a href="mailto:{escape(site["email"])}">{escape(site["email"])}</a></p></section>'
     if page == 'privacy':
-        body += f'<aside><h2>{escape(c["related"])}</h2><ul class="resources"><li><a href="https://www.apple.com/legal/privacy/">{escape(c["applePrivacy"])}</a></li><li><a href="https://support.apple.com/104967">{escape(c["appleDeletion"])}</a></li><li><a href="https://policies.google.com/privacy">{escape(c["googlePrivacy"])}</a></li></ul></aside>'
+        body += f'<aside><h2>{escape(c["related"])}</h2><ul class="resources"><li><a href="https://www.apple.com/legal/privacy/">{escape(c["applePrivacy"])}</a></li><li><a href="https://support.apple.com/104967">{escape(c["appleDeletion"])}</a></li><li><a href="https://policies.google.com/privacy">{escape(c["googlePrivacy"])}</a></li><li><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">{escape(c["githubPrivacy"])}</a></li></ul></aside>'
     footer = ''.join(f'<a href="{link(page_path(language, item))}">{escape(c[item])}</a>' for item in ('home', 'privacy', 'support') if item != 'home')
     return f'''<!doctype html>
 <html lang="{language}">

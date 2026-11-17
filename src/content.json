@@ -10,99 +10,104 @@
     "developer": "Developer",
     "tagline": "A tidier photo library",
     "homeTitle": "Sort your photos. Keep what matters.",
-    "homeLead": "Official information and support for the ad-free edition of Pikumi for iPhone.",
-    "privacySummary": "How Pikumi uses photo access, stores progress, and handles support messages.",
-    "supportSummary": "Answers about photo access, deletion, iCloud, and using Pikumi.",
-    "privacyTitle": "Your photos, your decisions.",
-    "privacyLead": "This policy covers the ad-free Pikumi iPhone app and these information pages.",
+    "homeLead": "Official information, privacy details, and support for Pikumi, the ad-free photo organizer for iPhone.",
+    "privacySummary": "How photo access works, what Pikumi saves on your device, and how support emails are handled.",
+    "supportSummary": "Help with reviewing photos, managing access, deleting items, and using iCloud Photos.",
+    "privacyTitle": "Pikumi Privacy Policy",
+    "privacyLead": "This policy explains how information is handled in the ad-free Pikumi app for iPhone and on this website.",
     "sections": [
       [
-        "Who is responsible",
-        "Pikumi is developed by {developer} under the Pikumi name. For privacy questions and requests, use the contact email below."
+        "Developer and contact",
+        "Pikumi is developed by {developer}. For questions about this policy or requests concerning your information, please use the email address in the Contact section."
       ],
       [
-        "Photos, videos, and iCloud",
-        "Pikumi uses the photo library access you grant in iOS to display photos and videos, show media details, and carry out your keep or deletion choices. You can grant access to selected items or your full library, and change or revoke access in iOS Settings.",
-        "Pikumi does not upload your photos or videos to the developer. If an item is stored in iCloud, iOS may download it from Apple to display or play it. iCloud Photos and device backups remain subject to your Apple settings and Apple’s privacy policy."
+        "Photo access and iCloud",
+        "Pikumi uses the photo access you grant in iOS to show photos, videos, and their details, record your choices, and delete items you confirm. You can allow access to selected items or your entire library, and change or withdraw permission in Settings at any time.",
+        "Your photos and videos are processed on your device and are not uploaded to the developer. For items stored in iCloud, iOS may download a copy from Apple to display or play them. iCloud Photos and device backups are managed by Apple according to your settings and Apple’s privacy policy."
       ],
       [
-        "Progress stored on your device",
-        "Pikumi stores review progress on your device: identifiers of items you have made a decision on, the deletion queue and its media details, review decision history for undo, deletion counts and estimated sizes, and the state used to time App Store rating prompts. This information lets the app resume your review and display statistics. It is not sent to a developer-operated server."
+        "Information saved on your device",
+        "Pikumi saves your review progress so you can pick up where you left off. This includes identifiers for reviewed items, details of items in the deletion queue, and a history of your choices so you can undo them.",
+        "The app also saves deletion totals, estimated media sizes, and information used to decide when to show an App Store rating prompt. This information stays in local app storage; the developer does not receive it. Apple-managed backups may include app data, depending on your settings."
       ],
       [
-        "No advertising or analytics SDKs",
-        "The ad-free edition does not include Google AdMob or its consent SDK. Pikumi has no account registration, developer-operated cloud service, or third-party analytics SDK. The app does not request access to your contacts or precise location."
+        "Advertising, analytics, and accounts",
+        "This edition has no advertising or third-party usage analytics. It does not require an account and has no developer-operated server or cloud service."
       ],
       [
-        "Support messages",
-        "If you email support, {developer} receives your email address, message, and any attachments you choose to send. They are used to answer your request and resolve the issue. Support messages and their attachments are deleted after the issue is resolved. Please do not send private photos, passwords, or other information that is not needed to explain the problem.",
-        "Support mail is received through Gmail (Google). Google processes that mail under its own privacy policy."
+        "Support emails",
+        "When you contact support, {developer} receives your email address, message, and any attachments you send. This information is used to reply and help resolve your request. The developer deletes the correspondence and attachments after the request is resolved.",
+        "Support uses Gmail. Google processes emails under its own privacy policy, including its rules on retention and backups. Deleting correspondence from the developer’s mailbox does not mean every copy held by Google is immediately erased. Please send only what is needed to explain the issue and avoid private photos or passwords."
       ],
       [
-        "These web pages",
-        "These pages contain no analytics, advertising pixels, contact forms, external fonts, or JavaScript. Their language links do not use cookies or local storage. The hosting service receives the technical information needed to deliver a page, such as your IP address and the requested URL. Its handling of that information is separate from the app’s local photo processing."
+        "This website",
+        "This website is hosted on GitHub Pages. GitHub receives your IP address and technical information about your page requests to deliver the website. GitHub’s privacy statement explains how it handles that information.",
+        "GitHub also records and retains visitor IP addresses for security purposes.",
+        "The pages contain no analytics, advertising trackers, contact forms, external fonts, or JavaScript. Changing the language does not save your choice in cookies or browser storage."
       ],
       [
-        "Retention, deletion, and your choices",
-        "You can clear review decisions and the deletion queue using Reset progress; deletion statistics are preserved. Remaining local app data is removed when you delete the app. Removing the app does not delete photos you kept. Device backups can contain app data according to your Apple settings.",
-        "Adding an item to the queue does not delete it. Deletion requires confirmation. iOS normally keeps deleted items in Recently Deleted for 30 days; you can manage them in Photos. With iCloud Photos enabled, deletion is synchronized to other devices using the same Apple Account."
+        "Resetting progress and deleting data",
+        "Reset progress clears your review choices and deletion queue while keeping deletion statistics. Deleting Pikumi removes its local app data from your device. It does not delete the photos and videos you kept or remove data from backups managed by Apple.",
+        "Adding an item to the queue does not delete it. Deletion requires your confirmation. Deleted items can usually be recovered in the Photos app’s Recently Deleted album for 30 days, unless you permanently delete them sooner. If iCloud Photos is enabled, deletion also syncs to other devices using the same Apple Account."
       ],
       [
-        "Privacy requests",
-        "You can withdraw photo access in Settings → Privacy & Security → Photos → Pikumi. For access, correction, deletion, or other requests concerning information you sent to support, email the address below. Applicable rights depend on your location; you may also have the right to contact your data protection authority. The developer cannot retrieve your local library or progress from a server."
+        "Your choices and privacy requests",
+        "You can change or withdraw photo access in Settings → Privacy & Security → Photos → Pikumi. The developer does not hold a copy of your local library or review progress and cannot retrieve it for you.",
+        "For requests to access, correct, or delete information you sent to support, please use the contact email below. Your rights depend on applicable law and may include the right to complain to a data protection authority."
       ],
       [
-        "Changes to this policy",
-        "If Pikumi’s features or data practices change, this page will be updated. The revision date appears above."
+        "Policy updates",
+        "This policy will be updated if Pikumi’s features or information handling change. The latest revision date is shown at the top of the page."
       ]
     ],
-    "supportTitle": "Help with Pikumi.",
-    "supportLead": "Review photos and videos, keep your favorites, and confirm what you want to delete.",
-    "supportIntro": "Email us with your question, a bug report, or a suggestion. Include your iPhone model, iOS version, Pikumi version, and the steps that led to the problem. Support messages are deleted after the issue is resolved.",
-    "supportSafety": "Do not send passwords or private photos. A description of the issue is usually enough.",
+    "supportTitle": "Pikumi Support",
+    "supportLead": "Help with sorting your library and deciding what to keep or delete.",
+    "supportIntro": "For questions, bug reports, or suggestions, use the email address below. If something is not working, include your iPhone model, iOS and Pikumi versions, and the steps that led to the problem. The developer deletes your correspondence and attachments after resolving your request; Gmail’s own retention rules also apply.",
+    "supportSafety": "Please do not send passwords or private photos. A description of the problem is usually enough.",
     "faqTitle": "Frequently asked questions",
     "faq": [
       [
         "What do I need to use Pikumi?",
-        "An iPhone running iOS 26 or later and permission to access the photos and videos you want to review. This edition has no advertising."
+        "You need an iPhone running iOS 26 or later and permission to access the photos and videos you want to review. Pikumi has no advertising."
       ],
       [
-        "Are items deleted as soon as I swipe?",
-        "No. Swipe right or tap Keep to keep an item. Swipe left or tap Queue to add it to the deletion queue. Open the queue, check the items, and confirm deletion when you are ready."
+        "Does swiping delete an item straight away?",
+        "No. Swipe right or tap Keep to keep an item. Swipe left or tap Queue to add it to the deletion queue. When you are ready, open the queue, review its contents, and confirm deletion."
       ],
       [
         "Can I undo a choice?",
-        "Use Undo to reverse the last review decision, or remove an item from the queue before confirming deletion. After deletion is confirmed, recovery is managed in the Photos app’s Recently Deleted album, not through Pikumi’s Undo button."
+        "The Undo button reverses your last review choice. You can also remove items from the queue before confirming deletion. Once an item has been deleted, use Recently Deleted in Photos to recover it while it is still available there. Pikumi’s Undo button cannot restore deleted items."
       ],
       [
         "Why are some photos missing?",
-        "Pikumi can only show items that iOS makes available to it. Check the app’s photo access and the active media and date filters. With limited access, only the items you selected for Pikumi are available."
+        "Check Pikumi’s photo permission and the media type and date filters currently in use. With access to selected photos, Pikumi can only show the items you have allowed it to access."
       ],
       [
-        "Why will a photo or video not load?",
-        "An iCloud item may need an internet connection to download. Check your connection, confirm the item opens in Photos, and then open it in Pikumi again. Also check that Pikumi still has access to that item."
+        "Why is a photo or video not loading?",
+        "An item stored in iCloud may need an internet connection to download. Check your connection and whether the item opens in Photos, then try again in Pikumi. Also check that Pikumi still has permission to access it."
       ],
       [
-        "Why did available storage not increase immediately?",
-        "iOS normally retains deleted items in Recently Deleted for 30 days. Pikumi’s displayed sizes are estimates of media size, not a measurement of instantly recovered storage. Some items have no available size estimate."
+        "Why has my free storage not increased?",
+        "Deleted items usually remain in Recently Deleted for 30 days. Pikumi’s size figures estimate the size of the media; they do not measure the space immediately freed on your iPhone. A size estimate may not be available for every item."
       ],
       [
-        "Does deletion affect iCloud and my other devices?",
-        "Yes. When iCloud Photos is enabled, confirmed deletions are synchronized to other devices using the same Apple Account. Check the queue carefully before confirming."
+        "Will deletion affect iCloud and my other devices?",
+        "Yes, if iCloud Photos is enabled. Deletions sync to other devices using the same Apple Account. Check the queue before confirming deletion."
       ],
       [
-        "How do I change photo access?",
-        "Open Settings → Privacy & Security → Photos → Pikumi and choose the access you want to allow."
+        "How can I change photo access?",
+        "Open Settings → Privacy & Security → Photos → Pikumi. You can change which photos the app can access or withdraw access."
       ],
       [
-        "Are my photos sent to the developer?",
-        "No. Pikumi processes your library on your device. Apple may download iCloud items for display or playback. The Privacy Policy explains local progress, Apple services, and support messages."
+        "Does the developer receive my photos?",
+        "Pikumi does not send your photo library to the developer. iOS may download iCloud items from Apple for viewing. If you attach a photo to a support email, the developer receives it with your message. The Privacy Policy explains these separate uses."
       ]
     ],
     "related": "Related information",
     "applePrivacy": "Apple Privacy Policy",
     "appleDeletion": "Apple: delete and recover photos",
-    "googlePrivacy": "Google Privacy Policy (Gmail)"
+    "googlePrivacy": "Google Privacy Policy (Gmail)",
+    "githubPrivacy": "GitHub Privacy Statement"
   },
   "ru": {
     "privacy": "Политика конфиденциальности",
@@ -113,104 +118,109 @@
     "updated": "Обновлено 17 ноября 2026 года",
     "contact": "Контакты",
     "developer": "Разработчик",
-    "tagline": "Порядок в галерее",
-    "homeTitle": "Разбирайте фото. Оставляйте любимое.",
-    "homeLead": "Официальная информация и поддержка версии Pikumi для iPhone без рекламы.",
-    "privacySummary": "Как Pikumi использует доступ к медиатеке, хранит прогресс и обрабатывает обращения в поддержку.",
-    "supportSummary": "Ответы о доступе к фото, удалении, iCloud и работе с Pikumi.",
-    "privacyTitle": "Ваши фото — ваши решения.",
-    "privacyLead": "Эта политика относится к приложению Pikumi для iPhone без рекламы и этим информационным страницам.",
+    "tagline": "Порядок в фотографиях",
+    "homeTitle": "Разберите фотографии. Оставьте любимые.",
+    "homeLead": "Pikumi помогает навести порядок в фотографиях и видео на iPhone. Здесь вы найдёте ответы на вопросы и информацию о конфиденциальности.",
+    "privacySummary": "Какие данные использует Pikumi, что хранится на вашем устройстве и как обрабатываются письма в поддержку.",
+    "supportSummary": "Помощь с доступом к фотографиям, очередью удаления, iCloud и другими возможностями Pikumi.",
+    "privacyTitle": "Как Pikumi обращается с вашими данными",
+    "privacyLead": "Эта политика описывает работу приложения Pikumi для iPhone без рекламы и его информационного сайта.",
     "sections": [
       [
-        "Кто отвечает за приложение",
-        "Разработчик Pikumi — {developer}, работающий под названием Pikumi. Вопросы о конфиденциальности и запросы по данным направляйте на email в разделе «Контакты»."
+        "Разработчик и контакты",
+        "Разработчик Pikumi — {developer}. Если у вас есть вопросы о конфиденциальности или обработке ваших данных, напишите на адрес электронной почты в разделе «Контакты»."
       ],
       [
-        "Фотографии, видео и iCloud",
-        "Pikumi использует предоставленный вами доступ к медиатеке iOS, чтобы показывать фото и видео, сведения об объектах и выполнять ваши решения об их сохранении или удалении. Вы можете разрешить доступ к выбранным объектам или всей медиатеке, а затем изменить или отозвать его в настройках iOS.",
-        "Pikumi не загружает ваши фотографии и видео на серверы разработчика. Если объект хранится в iCloud, iOS может скачать его у Apple для показа или воспроизведения. Работа «Фото iCloud» и резервных копий определяется вашими настройками Apple и политикой конфиденциальности Apple."
+        "Доступ к фотографиям и видео",
+        "Pikumi работает с фотографиями и видео, к которым вы предоставили доступ в iOS: показывает их, помогает выбрать, что оставить, и удаляет выбранные материалы после вашего подтверждения. Вы можете разрешить доступ ко всей медиатеке или только к отдельным фотографиям и видео. Изменить или отозвать разрешение можно в настройках iPhone.",
+        "Приложение не отправляет вашу медиатеку разработчику. Если оригиналы фотографий и видео находятся в iCloud, iOS может загрузить их с серверов Apple для просмотра в Pikumi. Синхронизация с iCloud и резервное копирование зависят от ваших настроек и регулируются политикой конфиденциальности Apple."
       ],
       [
-        "Прогресс на устройстве",
-        "Pikumi хранит на устройстве прогресс разбора: идентификаторы объектов, для которых вы сделали выбор, очередь удаления и сведения о её объектах, историю решений для отмены, количество удалений и оценочный объём, а также состояние для выбора момента запроса оценки в App Store. Эти данные нужны для продолжения разбора и показа статистики. Они не передаются на сервер разработчика."
+        "Что хранится на устройстве",
+        "Pikumi хранит на устройстве историю ваших решений, очередь удаления и статистику разбора. В этих записях есть служебные идентификаторы фотографий и видео и сведения о них. Данные позволяют продолжить разбор с того места, где вы остановились, отменить последнее решение и посмотреть статистику.",
+        "Приложение также хранит сведения о показе запроса оценки в App Store. Они нужны, чтобы выбирать момент для следующего запроса. Эти данные, как и прогресс разбора, не передаются разработчику."
       ],
       [
-        "Без рекламы и SDK аналитики",
-        "Версия без рекламы не содержит Google AdMob и SDK управления рекламным согласием. В Pikumi нет регистрации, облачного сервиса разработчика и стороннего SDK аналитики. Приложение не запрашивает доступ к контактам или точному местоположению."
+        "Без рекламы и аналитики",
+        "В Pikumi нет рекламы и сторонних инструментов аналитики. Для работы не нужна учётная запись; у разработчика нет облачного сервиса для хранения вашей медиатеки или прогресса. Приложение не запрашивает доступ к контактам и точному местоположению."
       ],
       [
-        "Обращения в поддержку",
-        "Когда вы пишете в поддержку, {developer} получает ваш email, текст письма и вложения, которые вы решили отправить. Они используются для ответа и решения вопроса. Переписка поддержки и её вложения удаляются после решения вопроса. Не отправляйте личные фотографии, пароли и сведения, которые не нужны для описания проблемы.",
-        "Обращения принимаются через Gmail (Google). Обработка писем почтовым сервисом регулируется политикой конфиденциальности Google."
+        "Письма в поддержку",
+        "Если вы пишете в поддержку, разработчик получает ваш адрес электронной почты, текст письма и вложения, которые вы отправили. Эти сведения используются для ответа и решения вашего вопроса. После его решения разработчик удаляет переписку и вложения. Не отправляйте пароли, личные фотографии и другие сведения, которые не нужны для описания проблемы.",
+        "Для приёма писем используется Gmail. Google обрабатывает письма по своей политике конфиденциальности; удаление переписки разработчиком не означает немедленного удаления всех её копий из систем и резервных копий Google."
       ],
       [
-        "Эти страницы",
-        "На страницах нет аналитики, рекламных пикселей, форм отправки данных, внешних шрифтов и JavaScript. Ссылки выбора языка не используют cookies и локальное хранилище браузера. Для доставки страницы хостинг получает технические сведения запроса, например IP-адрес и адрес страницы. Их обработка хостингом не относится к локальному разбору фотографий в приложении."
+        "Информационный сайт",
+        "Сайт размещён на GitHub Pages. Когда вы открываете страницу, GitHub получает технические сведения о запросе, в том числе IP-адрес, адрес запрошенной страницы и время обращения. Их обработка описана в политике конфиденциальности GitHub. Это обычные запросы браузера к сайту: они не передают разработчику вашу медиатеку или прогресс в приложении.",
+        "В целях безопасности GitHub также регистрирует и хранит IP-адреса посетителей.",
+        "На страницах нет аналитики, рекламных трекеров, форм отправки данных, внешних шрифтов и скриптов. Сам сайт не использует файлы cookie или локальное хранилище браузера, в том числе для выбора языка."
       ],
       [
-        "Хранение, удаление и ваш выбор",
-        "Сброс прогресса очищает решения при разборе и очередь удаления; статистика удалений сохраняется. Остальные локальные данные удаляются вместе с приложением. Удаление приложения не удаляет фотографии, которые вы оставили. Резервные копии устройства могут содержать данные приложения в соответствии с настройками Apple.",
-        "Добавление в очередь не удаляет объект: удаление требует подтверждения. iOS обычно хранит удалённые объекты в альбоме «Недавно удалённые» 30 дней; управлять ими можно в приложении «Фото». При включённой функции «Фото iCloud» удаление синхронизируется с другими устройствами той же учётной записи Apple."
+        "Сброс прогресса и удаление данных",
+        "Сброс прогресса в Pikumi очищает историю выбора и очередь удаления, но сохраняет статистику удалений. Локальные данные приложения удаляются с устройства при удалении самого приложения. Это не удаляет фотографии и видео, которые вы оставили в медиатеке. В зависимости от настроек Apple данные приложения могут сохраняться в резервных копиях устройства.",
+        "Добавление фотографии или видео в очередь ещё не удаляет их из медиатеки — для этого нужно подтвердить удаление. После подтверждения восстановить их можно в приложении «Фото», в альбоме «Недавно удалённые», пока они там доступны. Обычно они хранятся в этом альбоме 30 дней. Если включена функция «Фото iCloud», удаление синхронизируется с другими устройствами, на которых используется та же учётная запись Apple."
       ],
       [
-        "Запросы о конфиденциальности",
-        "Отозвать доступ к медиатеке можно в «Настройки» → «Конфиденциальность и безопасность» → «Фото» → Pikumi. Для доступа, исправления, удаления и других запросов о сведениях, отправленных в поддержку, напишите на email ниже. Применимые права зависят от вашей страны; у вас также может быть право обратиться в орган защиты данных. Разработчик не может получить вашу локальную медиатеку или прогресс с сервера."
+        "Ваши возможности и запросы о данных",
+        "Вы можете изменить или отозвать доступ Pikumi к медиатеке: «Настройки» → «Конфиденциальность и безопасность» → «Фото» → Pikumi.",
+        "Если вы хотите получить, исправить или удалить сведения, отправленные в поддержку, напишите на адрес в разделе «Контакты». Доступные вам права и порядок рассмотрения запроса зависят от применимого законодательства. Оно также может давать вам право обратиться в уполномоченный орган по защите персональных данных. Приложение не предоставляет разработчику удалённого доступа к вашей медиатеке и прогрессу разбора. Получить или восстановить их по обращению в поддержку он не сможет."
       ],
       [
-        "Изменения политики",
-        "Если функции Pikumi или способы обработки данных изменятся, мы обновим эту страницу. Дата редакции указана выше."
+        "Обновления политики",
+        "При изменении функций Pikumi или способов обработки данных эта политика будет обновлена. Дата последнего обновления указана в начале страницы."
       ]
     ],
-    "supportTitle": "Помощь с Pikumi.",
-    "supportLead": "Разбирайте фото и видео, оставляйте любимое и подтверждайте удаление ненужного.",
-    "supportIntro": "Напишите нам, если возник вопрос, обнаружилась ошибка или появилась идея. Укажите модель iPhone, версии iOS и Pikumi и действия, после которых возникла проблема. Письма поддержки удаляются после решения вопроса.",
-    "supportSafety": "Не отправляйте пароли и личные фотографии. Обычно достаточно описания проблемы.",
+    "supportTitle": "Помощь с Pikumi",
+    "supportLead": "Выберите, какие фотографии и видео оставить. Затем проверьте очередь и подтвердите удаление выбранных материалов.",
+    "supportIntro": "Если у вас есть вопрос, вы заметили ошибку или хотите предложить улучшение, напишите на адрес ниже. Для разбора ошибки укажите модель iPhone, версии iOS и Pikumi и опишите, какие действия привели к проблеме. После решения вопроса разработчик удаляет переписку и вложения. Правила обработки писем сервисом Gmail описаны в политике конфиденциальности.",
+    "supportSafety": "Не отправляйте пароли и личные фотографии. Обычно достаточно описать проблему словами.",
     "faqTitle": "Частые вопросы",
     "faq": [
       [
         "Что нужно для работы Pikumi?",
-        "iPhone с iOS 26 или новее и разрешение на доступ к фотографиям и видео, которые вы хотите разобрать. В этой версии нет рекламы."
+        "iPhone с iOS 26 или новее. Разрешите Pikumi доступ к фотографиям и видео, которые хотите разобрать. В приложении нет рекламы."
       ],
       [
-        "Объекты удаляются сразу после свайпа?",
-        "Нет. Свайп вправо или кнопка «Оставить» сохраняют объект, свайп влево или кнопка «В очередь» добавляют его в очередь удаления. Откройте очередь, проверьте объекты и подтвердите удаление, когда будете готовы."
+        "Фотографии и видео удаляются сразу после смахивания?",
+        "Нет. Чтобы оставить материал в медиатеке, смахните карточку вправо или нажмите «Оставить». Чтобы добавить его в очередь удаления, смахните влево или нажмите «В очередь». Когда закончите разбор, откройте очередь, проверьте её содержимое и подтвердите удаление."
       ],
       [
-        "Можно отменить решение?",
-        "Кнопка отмены возвращает последнее решение при разборе. До подтверждения удаления также можно убрать объект из очереди. После подтверждённого удаления восстановление выполняется в альбоме «Недавно удалённые» приложения «Фото», а не кнопкой отмены в Pikumi."
+        "Как отменить выбор?",
+        "Нажмите кнопку отмены, чтобы вернуться к последней карточке и выбрать другое действие. Пока удаление не подтверждено, фотографию или видео также можно убрать из очереди. Если вы уже подтвердили удаление, откройте альбом «Недавно удалённые» в приложении «Фото»: восстановление доступно там, пока материал не удалён окончательно."
       ],
       [
-        "Почему видны не все фотографии?",
-        "Pikumi показывает только объекты, к которым iOS предоставляет доступ. Проверьте разрешения приложения и активные фильтры типов медиа и дат. При ограниченном доступе доступны только объекты, которые вы выбрали для Pikumi."
+        "Почему в Pikumi видны не все фотографии?",
+        "Проверьте разрешение на доступ к медиатеке и настройки фильтров: какие типы материалов выбраны и за какой период. Если вы разрешили доступ только к отдельным фотографиям и видео, Pikumi сможет показать только их."
       ],
       [
-        "Почему фото или видео не загружается?",
-        "Для загрузки объекта из iCloud может требоваться интернет. Проверьте соединение, убедитесь, что объект открывается в приложении «Фото», и откройте его в Pikumi ещё раз. Также проверьте, что доступ к нему по-прежнему разрешён."
+        "Почему не удаётся загрузить фотографию или видео?",
+        "Если материал хранится в iCloud, для его загрузки может понадобиться интернет. Проверьте соединение и попробуйте открыть фотографию или видео в приложении «Фото», а затем ещё раз в Pikumi. Также убедитесь, что приложению по-прежнему разрешён доступ к этому материалу."
       ],
       [
-        "Почему свободное место не увеличилось сразу?",
-        "iOS обычно хранит удалённые объекты в «Недавно удалённых» 30 дней. Pikumi показывает оценку размера медиа, а не измерение мгновенно освобождённой памяти. Для некоторых объектов оценка размера недоступна."
+        "Почему после удаления свободного места не стало больше?",
+        "Обычно удалённые фотографии и видео ещё 30 дней хранятся в альбоме «Недавно удалённые» приложения «Фото». Кроме того, Pikumi показывает примерный размер файлов, а не точный объём места, освободившегося на iPhone. Для некоторых файлов размер определить не удаётся."
       ],
       [
-        "Удаление затронет iCloud и другие устройства?",
-        "Да. При включённой функции «Фото iCloud» подтверждённое удаление синхронизируется с другими устройствами той же учётной записи Apple. Внимательно проверьте очередь перед подтверждением."
+        "Удалятся ли фотографии из iCloud и с других устройств?",
+        "Да, если включена функция «Фото iCloud»: удаление синхронизируется с другими устройствами, на которых используется та же учётная запись Apple. Перед подтверждением внимательно проверьте содержимое очереди."
       ],
       [
-        "Как изменить доступ к фото?",
-        "Откройте «Настройки» → «Конфиденциальность и безопасность» → «Фото» → Pikumi и выберите нужный доступ."
+        "Как изменить доступ к фотографиям?",
+        "Откройте «Настройки» → «Конфиденциальность и безопасность» → «Фото» → Pikumi. Там можно изменить доступ к медиатеке или отозвать его."
       ],
       [
-        "Мои фотографии отправляются разработчику?",
-        "Нет. Pikumi работает с медиатекой на вашем устройстве. Apple может загружать объекты из iCloud для показа или воспроизведения. Локальный прогресс, сервисы Apple и обращения в поддержку описаны в политике конфиденциальности."
+        "Получает ли разработчик мои фотографии?",
+        "Приложение не отправляет вашу медиатеку разработчику: Pikumi работает с ней на вашем устройстве. При просмотре материалов из iCloud iPhone может загружать их с серверов Apple. Если вы сами приложите фотографию к письму в поддержку, разработчик получит её вместе с письмом. Подробнее — в политике конфиденциальности."
       ]
     ],
     "related": "Полезные ссылки",
     "applePrivacy": "Политика конфиденциальности Apple",
     "appleDeletion": "Apple: удаление и восстановление фотографий",
-    "googlePrivacy": "Политика конфиденциальности Google (Gmail)"
+    "googlePrivacy": "Политика конфиденциальности Google (Gmail)",
+    "githubPrivacy": "Политика конфиденциальности GitHub"
   },
   "fr": {
-    "privacy": "Confidentialité",
+    "privacy": "Politique de confidentialité",
     "support": "Assistance",
     "home": "Accueil",
     "language": "Langue",
@@ -219,100 +229,105 @@
     "contact": "Contact",
     "developer": "Développeur",
     "tagline": "Une photothèque bien rangée",
-    "homeTitle": "Triez vos photos. Gardez vos préférées.",
-    "homeLead": "Informations officielles et assistance pour la version sans publicité de Pikumi sur iPhone.",
-    "privacySummary": "Accès à la photothèque, progression enregistrée et traitement des messages d’assistance.",
-    "supportSummary": "Réponses sur l’accès aux photos, la suppression, iCloud et l’utilisation de Pikumi.",
-    "privacyTitle": "Vos photos, vos décisions.",
-    "privacyLead": "Cette politique concerne l’application Pikumi pour iPhone sans publicité et ces pages d’information.",
+    "homeTitle": "Faites le tri. Gardez ce qui compte.",
+    "homeLead": "Informations officielles, confidentialité et assistance pour Pikumi, l’application de tri de photos sans publicité sur iPhone.",
+    "privacySummary": "L’accès à vos photos, les données conservées sur votre appareil et le traitement des demandes d’assistance.",
+    "supportSummary": "Des réponses pour trier vos photos, gérer les autorisations et comprendre la suppression et Photos iCloud.",
+    "privacyTitle": "Politique de confidentialité de Pikumi",
+    "privacyLead": "Cette politique décrit le traitement des informations dans l’application Pikumi sans publicité pour iPhone et sur ce site.",
     "sections": [
       [
-        "Responsable de l’application",
-        "Pikumi est développé par {developer} sous le nom Pikumi. Pour toute question ou demande relative à vos données, utilisez l’adresse e-mail de la rubrique « Contact »."
+        "Développeur et contact",
+        "Le développeur de Pikumi est {developer}. Pour toute question sur cette politique ou demande concernant vos données, utilisez l’adresse e-mail de la rubrique « Contact »."
       ],
       [
-        "Photos, vidéos et iCloud",
-        "Pikumi utilise l’accès à la photothèque que vous autorisez dans iOS pour afficher vos photos et vidéos, leurs informations et appliquer vos choix de conservation ou de suppression. Vous pouvez autoriser l’accès à certains éléments ou à toute la photothèque, puis modifier ou retirer cette autorisation dans les Réglages d’iOS.",
-        "Pikumi n’envoie pas vos photos ou vidéos aux serveurs du développeur. Lorsqu’un élément est stocké dans iCloud, iOS peut le télécharger depuis Apple pour l’afficher ou le lire. Photos iCloud et les sauvegardes restent soumis à vos réglages Apple et à la politique de confidentialité d’Apple."
+        "Accès aux photos et à iCloud",
+        "Pikumi utilise les autorisations accordées dans iOS pour afficher vos photos, vos vidéos et leurs informations, enregistrer vos choix et supprimer les éléments après votre confirmation. Vous pouvez autoriser l’accès à une sélection ou à toute votre photothèque, puis modifier ou retirer cette autorisation à tout moment dans Réglages.",
+        "Vos photos et vidéos sont traitées sur votre appareil et ne sont pas envoyées au développeur. Si un élément est stocké dans iCloud, iOS peut le télécharger auprès d’Apple pour l’afficher ou le lire. Photos iCloud et les sauvegardes de l’appareil sont gérés par Apple selon vos réglages et sa politique de confidentialité."
       ],
       [
-        "Progression sur votre appareil",
-        "Pikumi enregistre sur votre appareil les identifiants des éléments pour lesquels vous avez fait un choix, la file de suppression et les informations sur ses éléments, l’historique des décisions pour permettre leur annulation, le nombre de suppressions et les tailles estimées, ainsi que l’état servant à choisir le moment d’une demande d’évaluation sur l’App Store. Ces données permettent de reprendre le tri et d’afficher les statistiques. Elles ne sont pas transmises à un serveur du développeur."
+        "Données conservées sur votre appareil",
+        "Pikumi enregistre votre progression pour vous permettre de reprendre le tri. Ces données comprennent les identifiants des éléments déjà examinés, les informations sur les éléments en attente de suppression et l’historique de vos choix, qui permet de les annuler.",
+        "L’application conserve aussi le nombre d’éléments supprimés, leur taille estimée et les informations nécessaires pour choisir le moment où proposer une évaluation sur l’App Store. Ces données restent dans le stockage local de l’application et ne sont pas transmises au développeur. Selon vos réglages, elles peuvent figurer dans les sauvegardes gérées par Apple."
       ],
       [
-        "Sans publicité ni SDK d’analyse",
-        "La version sans publicité ne contient ni Google AdMob ni son SDK de gestion du consentement. Pikumi ne propose pas de compte, de service cloud géré par le développeur ou de SDK d’analyse tiers. L’application ne demande pas l’accès à vos contacts ou à votre position précise."
+        "Publicité, statistiques d’utilisation et comptes",
+        "Cette version ne contient ni publicité ni outil tiers d’analyse de l’utilisation. Aucun compte n’est nécessaire. Le développeur n’exploite aucun serveur ni service de stockage en ligne pour l’application."
       ],
       [
-        "Messages d’assistance",
-        "Si vous contactez l’assistance par e-mail, {developer} reçoit votre adresse e-mail, votre message et les pièces jointes que vous choisissez d’envoyer. Ils servent à vous répondre et à résoudre le problème. Les échanges et leurs pièces jointes sont supprimés une fois le problème résolu. N’envoyez pas de photos privées, de mots de passe ou de renseignements inutiles à la description du problème.",
-        "Les messages sont reçus via Gmail (Google). Google traite ces e-mails conformément à sa propre politique de confidentialité."
+        "Demandes d’assistance",
+        "Lorsque vous écrivez à l’assistance, {developer} reçoit votre adresse e-mail, votre message et les pièces jointes que vous choisissez d’envoyer. Ces informations servent à vous répondre et à résoudre votre demande. Le développeur supprime les échanges et les pièces jointes une fois la demande résolue.",
+        "La messagerie utilisée est Gmail. Google traite les e-mails selon sa propre politique de confidentialité, notamment pour leur conservation et les sauvegardes. Leur suppression de la boîte du développeur ne garantit donc pas l’effacement immédiat de toutes les copies détenues par Google. N’envoyez que les informations utiles et évitez les photos privées ou les mots de passe."
       ],
       [
-        "Ces pages web",
-        "Ces pages ne contiennent ni outils d’analyse, pixels publicitaires, formulaires, polices externes, ni JavaScript. Les liens de langue n’utilisent ni cookies ni stockage local du navigateur. L’hébergeur reçoit les informations techniques nécessaires pour fournir la page, notamment votre adresse IP et l’URL demandée. Ce traitement est distinct du tri local des photos dans l’application."
+        "Ce site web",
+        "Ce site est hébergé sur GitHub Pages. Pour vous fournir les pages, GitHub reçoit votre adresse IP et des informations techniques sur vos requêtes. Sa déclaration de confidentialité explique le traitement de ces données.",
+        "GitHub enregistre et conserve aussi les adresses IP des visiteurs pour assurer la sécurité du service.",
+        "Les pages ne contiennent ni outil d’analyse, ni dispositif de suivi publicitaire, ni formulaire, ni police externe, ni JavaScript. Le choix de langue n’est enregistré ni dans des cookies ni dans le stockage du navigateur."
       ],
       [
-        "Conservation, suppression et choix",
-        "La réinitialisation de la progression efface les décisions de tri et la file de suppression ; les statistiques de suppression sont conservées. Les autres données locales sont supprimées lorsque vous désinstallez l’application. Désinstaller Pikumi ne supprime pas les photos que vous avez conservées. Les sauvegardes de l’appareil peuvent contenir les données de l’application selon vos réglages Apple.",
-        "Ajouter un élément à la file ne le supprime pas : une confirmation est nécessaire. iOS conserve normalement les éléments supprimés pendant 30 jours dans « Supprimées récemment », que vous pouvez gérer dans Photos. Si Photos iCloud est activé, la suppression est synchronisée avec les autres appareils utilisant le même compte Apple."
+        "Réinitialisation et suppression des données",
+        "La réinitialisation de la progression efface vos choix de tri et la file de suppression, mais conserve les statistiques de suppression. Supprimer Pikumi efface les données locales de l’application sur votre appareil. Cela ne supprime ni les photos et vidéos que vous avez gardées, ni les données figurant dans les sauvegardes gérées par Apple.",
+        "La mise en attente ne supprime aucun élément : une confirmation est nécessaire. Les éléments supprimés peuvent généralement être récupérés pendant 30 jours dans « Supprimées récemment » de Photos, sauf si vous les effacez définitivement avant. Si Photos iCloud est activé, la suppression est aussi synchronisée avec les appareils utilisant le même compte Apple."
       ],
       [
-        "Demandes relatives à vos données",
-        "Vous pouvez retirer l’accès aux photos dans Réglages → Confidentialité et sécurité → Photos → Pikumi. Pour demander l’accès, la rectification, la suppression ou exercer d’autres droits concernant les données envoyées à l’assistance, écrivez à l’adresse ci-dessous. Vos droits dépendent de votre pays ; vous pouvez également avoir le droit de contacter votre autorité de protection des données. Le développeur ne peut pas récupérer votre photothèque ou progression locale sur un serveur."
+        "Vos choix et vos droits",
+        "Vous pouvez modifier ou retirer l’accès aux photos dans Réglages → Confidentialité et sécurité → Photos → Pikumi. Le développeur ne détient aucune copie de votre photothèque ou de votre progression locale et ne peut pas les récupérer pour vous.",
+        "Pour demander l’accès, la rectification ou la suppression des informations envoyées à l’assistance, écrivez à l’adresse indiquée ci-dessous. Vos droits dépendent de la législation applicable et peuvent inclure le droit de saisir une autorité de protection des données."
       ],
       [
-        "Modifications",
-        "Si les fonctions de Pikumi ou le traitement des données changent, cette page sera mise à jour. La date de révision figure ci-dessus."
+        "Mises à jour de cette politique",
+        "Cette politique sera actualisée si les fonctionnalités de Pikumi ou le traitement des informations changent. La date de la dernière révision figure en haut de la page."
       ]
     ],
-    "supportTitle": "Besoin d’aide avec Pikumi ?",
-    "supportLead": "Triez vos photos et vidéos, gardez vos préférées et confirmez les éléments à supprimer.",
-    "supportIntro": "Écrivez-nous pour poser une question, signaler un problème ou proposer une amélioration. Indiquez le modèle de votre iPhone, les versions d’iOS et de Pikumi et les étapes ayant entraîné le problème. Les messages sont supprimés une fois la demande résolue.",
-    "supportSafety": "N’envoyez pas de mots de passe ou de photos privées. Une description du problème suffit généralement.",
+    "supportTitle": "Assistance Pikumi",
+    "supportLead": "De l’aide pour trier votre photothèque et choisir ce que vous souhaitez garder ou supprimer.",
+    "supportIntro": "Pour poser une question, signaler un problème ou suggérer une amélioration, écrivez à l’adresse ci-dessous. En cas de problème, précisez le modèle de votre iPhone, les versions d’iOS et de Pikumi ainsi que les étapes qui permettent de le reproduire. Le développeur supprime les échanges et les pièces jointes une fois la demande résolue ; les règles de conservation de Gmail s’appliquent également.",
+    "supportSafety": "N’envoyez pas de mots de passe ni de photos privées. Une description du problème suffit généralement.",
     "faqTitle": "Questions fréquentes",
     "faq": [
       [
-        "De quoi ai-je besoin ?",
-        "D’un iPhone sous iOS 26 ou version ultérieure et d’un accès autorisé aux photos et vidéos à trier. Cette version ne contient pas de publicité."
+        "De quoi ai-je besoin pour utiliser Pikumi ?",
+        "D’un iPhone sous iOS 26 ou une version ultérieure, et de l’autorisation d’accéder aux photos et vidéos à trier. Pikumi ne contient pas de publicité."
       ],
       [
         "Un balayage supprime-t-il immédiatement un élément ?",
-        "Non. Balayez vers la droite ou touchez « Garder » pour garder un élément. Balayez vers la gauche ou touchez « Mettre en attente » pour l’ajouter à la file de suppression. Ouvrez la file, vérifiez les éléments, puis confirmez la suppression."
+        "Non. Balayez vers la droite ou touchez « Garder » pour conserver l’élément. Balayez vers la gauche ou touchez « Mettre en attente » pour l’ajouter à la file de suppression. Ouvrez ensuite la file, vérifiez son contenu et confirmez la suppression."
       ],
       [
-        "Puis-je annuler une décision ?",
-        "Le bouton d’annulation annule la dernière décision de tri. Vous pouvez aussi retirer un élément de la file avant de confirmer sa suppression. Après confirmation, la récupération s’effectue dans « Supprimées récemment » de Photos, et non avec le bouton d’annulation de Pikumi."
+        "Puis-je revenir sur un choix ?",
+        "Le bouton d’annulation permet de revenir sur le dernier choix de tri. Vous pouvez aussi retirer des éléments de la file avant de confirmer la suppression. Après la suppression, utilisez « Supprimées récemment » dans Photos pour les récupérer tant qu’ils y sont disponibles. Le bouton d’annulation de Pikumi ne restaure pas les éléments supprimés."
       ],
       [
-        "Pourquoi certaines photos sont-elles absentes ?",
-        "Pikumi n’affiche que les éléments accessibles via iOS. Vérifiez l’autorisation d’accès et les filtres de type de média et de date. Avec un accès limité, seuls les éléments sélectionnés pour Pikumi sont disponibles."
+        "Pourquoi certaines photos ne s’affichent-elles pas ?",
+        "Vérifiez les autorisations de Pikumi et les filtres de type de média et de date. Si vous avez autorisé l’accès à une sélection de photos, seuls ces éléments sont disponibles dans Pikumi."
       ],
       [
         "Pourquoi une photo ou une vidéo ne se charge-t-elle pas ?",
-        "Un élément iCloud peut nécessiter une connexion Internet. Vérifiez la connexion, assurez-vous que l’élément s’ouvre dans Photos, puis ouvrez-le à nouveau dans Pikumi. Vérifiez aussi que l’accès à cet élément est toujours autorisé."
+        "Un élément stocké dans iCloud peut nécessiter une connexion Internet pour être téléchargé. Vérifiez votre connexion et essayez de l’ouvrir dans Photos, puis réessayez dans Pikumi. Assurez-vous également que l’application est toujours autorisée à y accéder."
       ],
       [
-        "Pourquoi l’espace libre n’augmente-t-il pas immédiatement ?",
-        "iOS conserve normalement les éléments supprimés pendant 30 jours dans « Supprimées récemment ». Les tailles affichées par Pikumi sont des estimations des fichiers, pas une mesure de l’espace immédiatement libéré. La taille de certains éléments n’est pas disponible."
+        "Pourquoi mon espace disponible n’a-t-il pas augmenté ?",
+        "Les éléments supprimés restent généralement 30 jours dans « Supprimées récemment ». Les tailles affichées par Pikumi sont des estimations de la taille des médias, et non une mesure de l’espace immédiatement libéré sur votre iPhone. L’estimation peut être indisponible pour certains éléments."
       ],
       [
-        "La suppression affecte-t-elle iCloud et mes autres appareils ?",
-        "Oui. Si Photos iCloud est activé, les suppressions confirmées sont synchronisées avec les appareils utilisant le même compte Apple. Vérifiez soigneusement la file avant de confirmer."
+        "La suppression concerne-t-elle aussi iCloud et mes autres appareils ?",
+        "Oui, si Photos iCloud est activé. Les suppressions sont synchronisées avec les appareils utilisant le même compte Apple. Vérifiez la file avant de confirmer."
       ],
       [
         "Comment modifier l’accès aux photos ?",
-        "Ouvrez Réglages → Confidentialité et sécurité → Photos → Pikumi et choisissez l’accès souhaité."
+        "Ouvrez Réglages → Confidentialité et sécurité → Photos → Pikumi. Vous pouvez y modifier les photos accessibles ou retirer l’autorisation."
       ],
       [
-        "Mes photos sont-elles envoyées au développeur ?",
-        "Non. Pikumi traite la photothèque sur votre appareil. Apple peut télécharger des éléments iCloud pour les afficher ou les lire. La politique de confidentialité explique la progression locale, les services Apple et les messages d’assistance."
+        "Le développeur reçoit-il mes photos ?",
+        "Pikumi n’envoie pas votre photothèque au développeur. iOS peut télécharger des éléments depuis iCloud pour les afficher. Si vous joignez une photo à un e-mail d’assistance, le développeur la reçoit avec votre message. La politique de confidentialité explique ces différents traitements."
       ]
     ],
     "related": "Informations utiles",
     "applePrivacy": "Politique de confidentialité d’Apple",
     "appleDeletion": "Apple : supprimer et récupérer des photos",
-    "googlePrivacy": "Politique de confidentialité de Google (Gmail)"
+    "googlePrivacy": "Politique de confidentialité de Google (Gmail)",
+    "githubPrivacy": "Déclaration de confidentialité de GitHub"
   },
   "es": {
     "privacy": "Política de privacidad",
@@ -324,204 +339,214 @@
     "contact": "Contacto",
     "developer": "Desarrollador",
     "tagline": "Tu fototeca, en orden",
-    "homeTitle": "Organiza tus fotos. Conserva tus favoritas.",
-    "homeLead": "Información oficial y soporte para la versión sin publicidad de Pikumi para iPhone.",
-    "privacySummary": "Cómo Pikumi accede a la fototeca, guarda el progreso y trata los mensajes de soporte.",
-    "supportSummary": "Respuestas sobre el acceso a fotos, la eliminación, iCloud y el uso de Pikumi.",
-    "privacyTitle": "Tus fotos, tus decisiones.",
-    "privacyLead": "Esta política se aplica a Pikumi para iPhone sin publicidad y a estas páginas informativas.",
+    "homeTitle": "Haz limpieza. Conserva lo que importa.",
+    "homeLead": "Información oficial, privacidad y soporte de Pikumi, la aplicación sin publicidad para organizar fotos en el iPhone.",
+    "privacySummary": "Cómo funciona el acceso a tus fotos, qué guarda Pikumi en tu dispositivo y cómo se gestionan los correos de soporte.",
+    "supportSummary": "Ayuda para revisar fotos, gestionar permisos y entender la eliminación y Fotos en iCloud.",
+    "privacyTitle": "Política de privacidad de Pikumi",
+    "privacyLead": "Esta política explica cómo se trata la información en la aplicación Pikumi sin publicidad para iPhone y en este sitio web.",
     "sections": [
       [
-        "Responsable de la aplicación",
-        "{developer} desarrolla Pikumi bajo el nombre Pikumi. Para preguntas de privacidad o solicitudes sobre tus datos, escribe al correo de la sección «Contacto»."
+        "Desarrollador y contacto",
+        "El desarrollador de Pikumi es {developer}. Si tienes preguntas sobre esta política o quieres hacer una solicitud relacionada con tus datos, escribe a la dirección de la sección «Contacto»."
       ],
       [
-        "Fotos, vídeos y iCloud",
-        "Pikumi utiliza el acceso a la fototeca que autorizas en iOS para mostrar fotos, vídeos y sus datos, y aplicar tus decisiones de conservar o eliminar elementos. Puedes permitir el acceso a una selección o a toda la fototeca, y cambiarlo o retirarlo en Ajustes de iOS.",
-        "Pikumi no envía tus fotos ni vídeos a los servidores del desarrollador. Si un elemento está en iCloud, iOS puede descargarlo desde Apple para mostrarlo o reproducirlo. Fotos en iCloud y las copias de seguridad dependen de tus ajustes de Apple y de la política de privacidad de Apple."
+        "Acceso a fotos e iCloud",
+        "Pikumi utiliza el permiso que concedas en iOS para mostrar fotos, vídeos y sus detalles, registrar tus decisiones y eliminar los elementos que confirmes. Puedes autorizar el acceso a una selección o a toda tu fototeca, y modificar o retirar el permiso en Ajustes cuando quieras.",
+        "Tus fotos y vídeos se procesan en tu dispositivo y no se envían al desarrollador. Si un elemento está en iCloud, iOS puede descargarlo desde Apple para mostrarlo o reproducirlo. Apple gestiona Fotos en iCloud y las copias de seguridad del dispositivo según tus ajustes y su política de privacidad."
       ],
       [
-        "Progreso en tu dispositivo",
-        "Pikumi guarda en tu dispositivo los identificadores de los elementos sobre los que has tomado una decisión, la cola de eliminación y los datos de sus elementos, el historial de decisiones para poder deshacerlas, el número de eliminaciones y los tamaños estimados, y el estado que determina cuándo solicitar una valoración en el App Store. Estos datos permiten continuar la revisión y mostrar estadísticas. No se envían a un servidor del desarrollador."
+        "Datos guardados en tu dispositivo",
+        "Pikumi guarda tu progreso para que puedas retomar la revisión. Esto incluye los identificadores de los elementos revisados, los detalles de los elementos de la cola de eliminación y el historial de decisiones que permite deshacerlas.",
+        "La aplicación también guarda el número de elementos eliminados, sus tamaños estimados y la información que determina cuándo mostrar una solicitud de valoración en el App Store. Estos datos se guardan localmente y no se envían al desarrollador. Según tus ajustes, pueden incluirse en las copias de seguridad que gestiona Apple."
       ],
       [
-        "Sin publicidad ni SDK de análisis",
-        "La versión sin publicidad no incluye Google AdMob ni su SDK de gestión del consentimiento. Pikumi no tiene registro de cuentas, servicio en la nube del desarrollador ni SDK de análisis de terceros. No solicita acceso a tus contactos ni a tu ubicación precisa."
+        "Publicidad, análisis de uso y cuentas",
+        "Esta versión no contiene publicidad ni herramientas de terceros para analizar el uso de la aplicación. No necesitas crear una cuenta. El desarrollador no gestiona ningún servidor ni servicio en la nube para la aplicación."
       ],
       [
-        "Mensajes de soporte",
-        "Si escribes a soporte, {developer} recibe tu dirección de correo, el mensaje y los archivos que decidas adjuntar. Se utilizan para responderte y resolver el problema. Los mensajes y sus adjuntos se eliminan cuando se resuelve la consulta. No envíes fotos privadas, contraseñas ni información innecesaria para describir el problema.",
-        "Los mensajes se reciben a través de Gmail (Google). Google trata esos correos según su propia política de privacidad."
+        "Correos de soporte",
+        "Si escribes a soporte, {developer} recibe tu dirección de correo, tu mensaje y los archivos que adjuntes. Esta información se utiliza para responderte y resolver tu consulta. El desarrollador elimina la correspondencia y los adjuntos cuando la consulta queda resuelta.",
+        "El correo de soporte utiliza Gmail. Google procesa los mensajes según su propia política de privacidad, incluidas sus normas de conservación y copias de seguridad. Borrar la correspondencia del buzón del desarrollador no implica que Google elimine de inmediato todas sus copias. Envía solo lo necesario para explicar el problema y evita las fotos privadas y las contraseñas."
       ],
       [
-        "Estas páginas web",
-        "Estas páginas no contienen herramientas de análisis, píxeles publicitarios, formularios, fuentes externas ni JavaScript. Los enlaces de idioma no usan cookies ni almacenamiento local del navegador. El alojamiento recibe los datos técnicos necesarios para servir la página, como tu dirección IP y la URL solicitada. Ese tratamiento es independiente de la organización local de fotos en la aplicación."
+        "Este sitio web",
+        "Este sitio está alojado en GitHub Pages. Para entregar las páginas, GitHub recibe tu dirección IP y datos técnicos sobre tus solicitudes. Su declaración de privacidad explica cómo trata esa información.",
+        "GitHub también registra y conserva las direcciones IP de los visitantes por motivos de seguridad.",
+        "Las páginas no incluyen herramientas de análisis, rastreadores publicitarios, formularios, fuentes externas ni JavaScript. La elección de idioma no se guarda en cookies ni en el almacenamiento del navegador."
       ],
       [
-        "Conservación, eliminación y opciones",
-        "Al restablecer el progreso se borran las decisiones de revisión y la cola de eliminación; las estadísticas de eliminación se conservan. Los demás datos locales se eliminan al desinstalar la aplicación. Desinstalar Pikumi no elimina las fotos que hayas conservado. Las copias de seguridad pueden incluir datos de la aplicación según tus ajustes de Apple.",
-        "Añadir un elemento a la cola no lo elimina: necesitas confirmar la eliminación. iOS normalmente conserva los elementos eliminados durante 30 días en «Eliminado recientemente», que puedes gestionar en Fotos. Si Fotos en iCloud está activado, la eliminación se sincroniza con los dispositivos que usan la misma cuenta de Apple."
+        "Restablecimiento y eliminación de datos",
+        "Restablecer el progreso borra tus decisiones de revisión y la cola, pero conserva las estadísticas de eliminación. Al eliminar Pikumi se borran los datos locales de la aplicación de tu dispositivo. Esto no elimina las fotos y vídeos que conservaste ni los datos de las copias de seguridad gestionadas por Apple.",
+        "Añadir un elemento a la cola no lo elimina: debes confirmar la eliminación. Por lo general, puedes recuperar los elementos en «Eliminado recientemente» de Fotos durante 30 días, salvo que los borres definitivamente antes. Si Fotos en iCloud está activado, la eliminación también se sincroniza con los dispositivos que utilizan la misma cuenta de Apple."
       ],
       [
-        "Solicitudes sobre tus datos",
-        "Puedes retirar el acceso a las fotos en Ajustes → Privacidad y seguridad → Fotos → Pikumi. Para solicitar acceso, rectificación, eliminación u otros derechos sobre la información enviada a soporte, escribe al correo indicado abajo. Tus derechos dependen de tu país; también puedes tener derecho a acudir a la autoridad de protección de datos. El desarrollador no puede recuperar tu fototeca o progreso local desde un servidor."
+        "Tus opciones y derechos",
+        "Puedes modificar o retirar el acceso en Ajustes → Privacidad y seguridad → Fotos → Pikumi. El desarrollador no dispone de una copia de tu fototeca ni de tu progreso local y no puede recuperarlos por ti.",
+        "Para solicitar acceso, rectificación o eliminación de la información que enviaste a soporte, escribe al correo indicado abajo. Tus derechos dependen de la legislación aplicable y pueden incluir el derecho a presentar una reclamación ante una autoridad de protección de datos."
       ],
       [
-        "Cambios en esta política",
-        "Si cambian las funciones de Pikumi o el tratamiento de los datos, actualizaremos esta página. La fecha de revisión aparece arriba."
+        "Actualizaciones de esta política",
+        "Esta política se actualizará si cambian las funciones de Pikumi o el tratamiento de la información. La fecha de la última revisión aparece al principio de la página."
       ]
     ],
-    "supportTitle": "Ayuda con Pikumi.",
-    "supportLead": "Revisa fotos y vídeos, conserva tus favoritos y confirma lo que quieres eliminar.",
-    "supportIntro": "Escríbenos si tienes una pregunta, encuentras un error o quieres sugerir una mejora. Incluye el modelo de iPhone, las versiones de iOS y Pikumi y los pasos que causaron el problema. Los mensajes se eliminan cuando se resuelve la consulta.",
+    "supportTitle": "Soporte de Pikumi",
+    "supportLead": "Ayuda para organizar tu fototeca y decidir qué conservar o eliminar.",
+    "supportIntro": "Para hacer una pregunta, comunicar un error o proponer una mejora, escribe al correo de abajo. Si algo no funciona, indica el modelo de iPhone, las versiones de iOS y Pikumi y los pasos que provocaron el problema. El desarrollador elimina la correspondencia y los adjuntos una vez resuelta la consulta; también se aplican las normas de conservación de Gmail.",
     "supportSafety": "No envíes contraseñas ni fotos privadas. Normalmente basta con describir el problema.",
     "faqTitle": "Preguntas frecuentes",
     "faq": [
       [
         "¿Qué necesito para usar Pikumi?",
-        "Un iPhone con iOS 26 o posterior y permiso para acceder a las fotos y vídeos que quieras revisar. Esta versión no contiene publicidad."
+        "Un iPhone con iOS 26 o posterior y permiso para acceder a las fotos y vídeos que quieras revisar. Pikumi no contiene publicidad."
       ],
       [
-        "¿Se eliminan los elementos al deslizar?",
-        "No. Desliza a la derecha o toca «Conservar» para guardar un elemento. Desliza a la izquierda o toca «A la cola» para incluirlo en la cola de eliminación. Abre la cola, revisa los elementos y confirma la eliminación cuando estés listo."
+        "¿Al deslizar se elimina el elemento de inmediato?",
+        "No. Desliza a la derecha o toca «Conservar» para mantener el elemento en tu fototeca. Desliza a la izquierda o toca «A la cola» para añadirlo a la cola de eliminación. Después, abre la cola, revisa su contenido y confirma la eliminación."
       ],
       [
         "¿Puedo deshacer una decisión?",
-        "El botón de deshacer revierte la última decisión de revisión. También puedes retirar un elemento de la cola antes de confirmar su eliminación. Tras confirmarla, la recuperación se realiza desde «Eliminado recientemente» en Fotos, no con el botón de deshacer de Pikumi."
+        "El botón de deshacer revierte tu última decisión de revisión. También puedes retirar elementos de la cola antes de confirmar su eliminación. Si ya los has eliminado, puedes recuperarlos en «Eliminado recientemente» de Fotos mientras sigan disponibles allí. El botón de deshacer de Pikumi no restaura elementos eliminados."
       ],
       [
-        "¿Por qué no aparecen todas mis fotos?",
-        "Pikumi solo muestra los elementos a los que iOS permite acceder. Comprueba el permiso de acceso y los filtros de tipo de archivo y fecha. Con acceso limitado, solo están disponibles los elementos que seleccionaste para Pikumi."
+        "¿Por qué faltan algunas fotos?",
+        "Comprueba los permisos de Pikumi y los filtros de tipo de contenido y fecha. Si solo autorizaste el acceso a determinadas fotos, Pikumi únicamente puede mostrar esos elementos."
       ],
       [
         "¿Por qué no se carga una foto o un vídeo?",
-        "Un elemento de iCloud puede necesitar conexión a Internet. Comprueba la conexión, asegúrate de que el elemento se abre en Fotos y vuelve a abrirlo en Pikumi. Comprueba también que el acceso al elemento sigue autorizado."
+        "Un elemento almacenado en iCloud puede necesitar conexión a Internet para descargarse. Comprueba tu conexión e intenta abrirlo en Fotos; después, vuelve a intentarlo en Pikumi. Asegúrate también de que la aplicación sigue teniendo permiso para acceder a él."
       ],
       [
-        "¿Por qué no aumenta el espacio libre de inmediato?",
-        "iOS normalmente conserva los elementos eliminados durante 30 días en «Eliminado recientemente». Los tamaños de Pikumi son estimaciones de los archivos, no una medida del espacio recuperado al instante. Algunos elementos no tienen un tamaño disponible."
+        "¿Por qué no ha aumentado el espacio libre?",
+        "Los elementos eliminados suelen permanecer 30 días en «Eliminado recientemente». Las cifras de Pikumi son estimaciones del tamaño de los archivos, no una medida del espacio que se libera de inmediato en tu iPhone. Puede que no haya una estimación disponible para algunos elementos."
       ],
       [
-        "¿La eliminación afecta a iCloud y a otros dispositivos?",
-        "Sí. Si Fotos en iCloud está activado, las eliminaciones confirmadas se sincronizan con los dispositivos que usan la misma cuenta de Apple. Revisa bien la cola antes de confirmar."
+        "¿La eliminación afecta también a iCloud y a mis otros dispositivos?",
+        "Sí, si Fotos en iCloud está activado. Las eliminaciones se sincronizan con los dispositivos que utilizan la misma cuenta de Apple. Revisa la cola antes de confirmar."
       ],
       [
         "¿Cómo cambio el acceso a las fotos?",
-        "Abre Ajustes → Privacidad y seguridad → Fotos → Pikumi y elige el acceso que quieras permitir."
+        "Abre Ajustes → Privacidad y seguridad → Fotos → Pikumi. Allí puedes cambiar las fotos a las que tiene acceso o retirar el permiso."
       ],
       [
-        "¿Se envían mis fotos al desarrollador?",
-        "No. Pikumi procesa la fototeca en tu dispositivo. Apple puede descargar elementos de iCloud para mostrarlos o reproducirlos. La política de privacidad explica el progreso local, los servicios de Apple y los mensajes de soporte."
+        "¿El desarrollador recibe mis fotos?",
+        "Pikumi no envía tu fototeca al desarrollador. iOS puede descargar elementos de iCloud desde Apple para mostrarlos. Si adjuntas una foto a un correo de soporte, el desarrollador la recibirá con el mensaje. La política de privacidad explica estos tratamientos por separado."
       ]
     ],
     "related": "Información útil",
     "applePrivacy": "Política de privacidad de Apple",
     "appleDeletion": "Apple: eliminar y recuperar fotos",
-    "googlePrivacy": "Política de privacidad de Google (Gmail)"
+    "googlePrivacy": "Política de privacidad de Google (Gmail)",
+    "githubPrivacy": "Declaración de privacidad de GitHub"
   },
   "zh-Hans": {
     "privacy": "隐私政策",
-    "support": "支持",
+    "support": "使用帮助",
     "home": "首页",
     "language": "语言",
     "skip": "跳转到正文",
     "updated": "更新日期：2026年11月17日",
     "contact": "联系方式",
     "developer": "开发者",
-    "tagline": "让照片图库井井有条",
+    "tagline": "让图库更整洁",
     "homeTitle": "整理照片，留下珍贵回忆。",
-    "homeLead": "Pikumi iPhone 无广告版的官方信息与支持。",
-    "privacySummary": "了解 Pikumi 如何访问照片图库、保存整理进度及处理支持邮件。",
-    "supportSummary": "关于照片访问权限、删除、iCloud 和 Pikumi 使用方法的解答。",
-    "privacyTitle": "您的照片，由您决定。",
-    "privacyLead": "本政策适用于 Pikumi iPhone 无广告版应用及这些信息页面。",
+    "homeLead": "Pikumi 是一款无广告的 iPhone 照片整理应用。本网站提供官方说明、隐私政策和使用帮助。",
+    "privacySummary": "了解照片访问权限、设备上保存的数据，以及支持邮件的处理方式。",
+    "supportSummary": "查找照片整理、访问权限、删除操作和 iCloud 照片相关问题的解答。",
+    "privacyTitle": "Pikumi 隐私政策",
+    "privacyLead": "本政策说明 Pikumi iPhone 无广告版应用及本网站如何处理相关信息。",
     "sections": [
       [
-        "应用负责人",
-        "Pikumi 由 {developer} 以 Pikumi 名义开发。如有隐私问题或数据相关请求，请通过下方“联系方式”中的电子邮箱联系我们。"
+        "开发者与联系方式",
+        "Pikumi 的开发者是 {developer}。如对本政策有疑问，或希望就您的信息提出请求，请使用“联系方式”中的电子邮箱。"
       ],
       [
-        "照片、视频与 iCloud",
-        "Pikumi 根据您在 iOS 中授予的照片图库权限，显示照片、视频及其信息，并执行您选择的保留或删除操作。您可以允许访问部分项目或整个图库，也可以随时在 iOS“设置”中更改或撤销权限。",
-        "Pikumi 不会将您的照片或视频上传到开发者的服务器。如果项目存储在 iCloud 中，iOS 可能会从 Apple 下载该项目，以便显示或播放。“iCloud 照片”和设备备份的处理取决于您的 Apple 设置及 Apple 的隐私政策。"
+        "照片访问权限与 iCloud",
+        "Pikumi 使用您在 iOS 中授予的权限来显示照片、视频及其详细信息，记录整理选择，并在您确认后删除项目。您可以允许访问部分照片或整个图库，也可以随时在“设置”中更改或撤销权限。",
+        "照片和视频在您的设备上处理，不会上传给开发者。如果项目存储在 iCloud 中，iOS 可能会从 Apple 下载，以便显示或播放。“iCloud 照片”和设备备份由 Apple 根据您的设置及其隐私政策管理。"
       ],
       [
-        "设备上的整理进度",
-        "Pikumi 在您的设备上保存您已作出整理决定的项目标识符、删除队列及其中项目的信息、用于撤销的整理决定历史、删除数量与估算大小，以及用于选择 App Store 评分请求时机的状态。这些信息用于继续整理并显示统计数据，不会发送到开发者的服务器。"
+        "设备上保存的数据",
+        "Pikumi 会保存整理进度，方便您下次继续。保存的内容包括已整理项目的标识信息、删除队列中项目的详细信息，以及用于撤销操作的选择记录。",
+        "应用还会保存已删除项目的数量、估算大小，以及用于判断何时显示 App Store 评分提示的信息。这些数据保存在设备上的应用存储空间中，不会发送给开发者。根据您的设置，Apple 管理的备份可能包含这些数据。"
       ],
       [
-        "无广告及第三方分析 SDK",
-        "无广告版不包含 Google AdMob 或其同意管理 SDK。Pikumi 没有账号注册、开发者运营的云服务或第三方分析 SDK，也不会请求访问您的通讯录或精确位置。"
+        "广告、使用分析与账号",
+        "此版本不含广告，也不使用第三方应用使用情况分析工具。您无需注册账号，开发者也不为应用运营服务器或云服务。"
       ],
       [
         "支持邮件",
-        "如果您发送支持邮件，{developer} 会收到您的电子邮箱地址、邮件内容以及您自行选择发送的附件。这些信息仅用于回复请求和解决问题。问题解决后，支持邮件及其附件将被删除。请勿发送私人照片、密码或与问题无关的信息。",
-        "支持邮件通过 Gmail（Google）接收。Google 依据其隐私政策处理这些邮件。"
+        "当您发送邮件寻求帮助时，{developer} 会收到您的邮箱地址、邮件内容及您主动发送的附件。这些信息用于回复和解决您的问题。问题解决后，开发者会删除相关往来邮件及附件。",
+        "支持邮箱使用 Gmail。Google 根据其隐私政策处理邮件，包括邮件保留和备份。开发者从邮箱中删除邮件，并不代表 Google 保存的所有副本都会立即清除。请只提供说明问题所需的信息，避免发送私人照片或密码。"
       ],
       [
-        "这些网页",
-        "这些页面不包含分析工具、广告像素、数据提交表单、外部字体或 JavaScript。语言切换链接不使用 Cookie 或浏览器本地存储。网站托管服务会接收提供页面所需的技术信息，例如 IP 地址和请求的网址。托管服务对这些信息的处理与应用在设备上整理照片的功能相互独立。"
+        "本网站",
+        "本网站托管于 GitHub Pages。为向您提供网页，GitHub 会接收您的 IP 地址及网页请求的相关技术信息。具体处理方式见 GitHub 隐私声明。",
+        "GitHub 还会出于安全目的记录并保存访客的 IP 地址。",
+        "网页不包含分析工具、广告跟踪程序、信息提交表单、外部字体或 JavaScript。切换语言时，不会通过 Cookie 或浏览器存储保存您的选择。"
       ],
       [
-        "保存、删除与您的选择",
-        "重置进度会清除整理决定和删除队列，但会保留删除统计。其余本地数据会在您删除应用时一并删除。卸载 Pikumi 不会删除您选择保留的照片。根据您的 Apple 设置，设备备份中可能包含应用数据。",
-        "加入队列不会删除项目，删除操作需要您的确认。iOS 通常会将已删除项目保留在“最近删除”中30天，您可以在“照片”应用中管理它们。如果启用了“iCloud 照片”，删除操作会同步到使用同一 Apple 账户的其他设备。"
+        "重置进度与删除数据",
+        "重置进度会清除整理选择和删除队列，但保留删除统计。删除 Pikumi 应用会移除设备上的应用本地数据，但不会删除您保留的照片和视频，也不会清除 Apple 管理的备份中的数据。",
+        "将项目加入队列不会立即删除它，删除需要您另行确认。已删除的项目通常可在“照片”应用的“最近删除”中保留并恢复，期限为 30 天；如果您提前将其永久删除，则无法继续在那里恢复。启用“iCloud 照片”后，删除操作也会同步到使用同一 Apple 账户的其他设备。"
       ],
       [
-        "隐私相关请求",
-        "您可以前往“设置”→“隐私与安全性”→“照片”→ Pikumi，撤销照片访问权限。如需访问、更正或删除您发送给支持人员的信息，或提出其他数据相关请求，请发送邮件至下方邮箱。适用权利取决于您所在的地区，您也可能有权联系当地数据保护机构。开发者无法从服务器获取您的本地图库或整理进度。"
+        "您的选择与隐私请求",
+        "您可以前往“设置”→“隐私与安全性”→“照片”→ Pikumi，更改或撤销照片访问权限。开发者不持有您的本地图库或整理进度副本，无法为您调取或恢复这些内容。",
+        "如需访问、更正或删除您发送到支持邮箱的信息，请通过下方邮箱提出请求。您的权利以适用法律为准，其中可能包括向数据保护机构投诉的权利。"
       ],
       [
         "政策更新",
-        "如果 Pikumi 的功能或数据处理方式发生变化，我们会更新本页面。修订日期显示在页面上方。"
+        "如果 Pikumi 的功能或信息处理方式发生变化，本政策也会相应更新。最近一次修订日期显示在页面上方。"
       ]
     ],
-    "supportTitle": "Pikumi 使用帮助。",
-    "supportLead": "整理照片和视频，留下喜欢的内容，并确认要删除的项目。",
-    "supportIntro": "如有问题、发现错误或希望提出建议，请给我们发送邮件。请注明 iPhone 型号、iOS 版本、Pikumi 版本以及导致问题的操作步骤。问题解决后，支持邮件将被删除。",
-    "supportSafety": "请勿发送密码或私人照片。通常只需描述问题即可。",
+    "supportTitle": "Pikumi 使用帮助",
+    "supportLead": "了解如何整理图库，选择要保留或删除的内容。",
+    "supportIntro": "如有疑问、发现问题或希望提出建议，请发送邮件至下方邮箱。遇到故障时，请注明 iPhone 型号、iOS 和 Pikumi 版本，以及出现问题前的操作步骤。问题解决后，开发者会删除相关往来邮件及附件；Gmail 自身的邮件保留规则仍然适用。",
+    "supportSafety": "请勿发送密码或私人照片。通常描述清楚问题即可。",
     "faqTitle": "常见问题",
     "faq": [
       [
         "使用 Pikumi 需要什么？",
-        "需要运行 iOS 26 或更高版本的 iPhone，并授权访问您想要整理的照片和视频。此版本不含广告。"
+        "您需要一部运行 iOS 26 或更高版本的 iPhone，并允许 Pikumi 访问要整理的照片和视频。Pikumi 不含广告。"
       ],
       [
-        "滑动后会立即删除项目吗？",
-        "不会。向右滑动或轻点“保留”可保留项目；向左滑动或轻点“加入队列”可将项目放入删除队列。准备好后，打开队列、检查项目并确认删除。"
+        "滑动后会立即删除吗？",
+        "不会。向右滑动或轻点“保留”，可将项目保留在图库中；向左滑动或轻点“加入队列”，可将其放入删除队列。之后打开队列，检查内容并确认删除。"
       ],
       [
-        "可以撤销决定吗？",
-        "撤销按钮可撤回上一次整理决定。在确认删除前，您也可以将项目移出队列。确认删除后，需要在“照片”应用的“最近删除”中恢复，不能使用 Pikumi 的撤销按钮恢复。"
+        "可以撤销选择吗？",
+        "撤销按钮可撤回上一次整理选择。在确认删除前，您也可以将项目移出队列。项目删除后，只要仍在“照片”应用的“最近删除”中，就可以在那里恢复。Pikumi 的撤销按钮无法恢复已删除的项目。"
       ],
       [
-        "为什么看不到部分照片？",
-        "Pikumi 只能显示 iOS 允许访问的项目。请检查照片访问权限以及当前启用的媒体类型和日期筛选条件。如果权限受到限制，Pikumi 只能访问您选定的项目。"
+        "为什么有些照片看不到？",
+        "请检查 Pikumi 的照片访问权限，以及当前的媒体类型和日期筛选条件。如果您只允许访问部分照片，Pikumi 就只能显示已授权的项目。"
       ],
       [
         "为什么照片或视频无法加载？",
-        "iCloud 项目可能需要联网下载。请检查网络，确认该项目能在“照片”应用中打开，然后再次在 Pikumi 中打开。同时检查 Pikumi 是否仍有权访问该项目。"
+        "存储在 iCloud 中的项目可能需要联网下载。请检查网络连接，尝试在“照片”应用中打开该项目，然后回到 Pikumi 重试。同时确认 Pikumi 仍有访问权限。"
       ],
       [
-        "为什么可用空间没有立即增加？",
-        "iOS 通常会在“最近删除”中保留已删除项目30天。Pikumi 显示的是媒体大小的估算值，不是立即释放空间的实测值。部分项目可能无法获取大小估算。"
+        "为什么可用空间没有增加？",
+        "已删除的项目通常会在“最近删除”中保留 30 天。Pikumi 显示的是媒体文件大小的估算值，不代表 iPhone 上立即释放的空间。部分项目可能无法获取大小估算。"
       ],
       [
         "删除会影响 iCloud 和其他设备吗？",
-        "会。如果启用了“iCloud 照片”，确认后的删除操作会同步到使用同一 Apple 账户的其他设备。请在确认前仔细检查队列。"
+        "如果启用了“iCloud 照片”，会。删除操作会同步到使用同一 Apple 账户的其他设备。请在确认删除前检查队列内容。"
       ],
       [
         "如何更改照片访问权限？",
-        "打开“设置”→“隐私与安全性”→“照片”→ Pikumi，然后选择要允许的访问范围。"
+        "打开“设置”→“隐私与安全性”→“照片”→ Pikumi。您可以更改允许访问的照片范围，或撤销权限。"
       ],
       [
-        "照片会发送给开发者吗？",
-        "不会。Pikumi 在您的设备上处理图库。Apple 可能会从 iCloud 下载项目以便显示或播放。有关本地进度、Apple 服务和支持邮件的说明，请参阅隐私政策。"
+        "开发者会收到我的照片吗？",
+        "Pikumi 不会将您的图库发送给开发者。iOS 可能会从 Apple 下载 iCloud 项目以便显示。如果您主动在支持邮件中附加照片，开发者会随邮件收到这些照片。隐私政策对这些不同的数据处理方式作了说明。"
       ]
     ],
     "related": "相关信息",
     "applePrivacy": "Apple 隐私政策",
     "appleDeletion": "Apple：删除和恢复照片",
-    "googlePrivacy": "Google 隐私政策（Gmail）"
+    "googlePrivacy": "Google 隐私政策（Gmail）",
+    "githubPrivacy": "GitHub 隐私声明"
   }
 }
