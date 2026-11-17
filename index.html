@@ -1,5 +1,33 @@
-<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index,follow"><title>Official site | Pikumi</title><style>
-:root{color-scheme:light;--ink:#163f31;--muted:#587365;--cream:#faf8f1;--mint:#dbf3e5;--yellow:#fbe59a;--line:#dbe7df}
-*{box-sizing:border-box}body{margin:0;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:radial-gradient(circle at 94% 1%,#c9efdc 0,transparent 33%),radial-gradient(circle at 0% 96%,#fff0b5 0,transparent 27%),var(--cream);line-height:1.65}
-main{max-width:820px;margin:0 auto;padding:32px 20px 96px}header{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-bottom:58px;flex-wrap:wrap}.brand{font-weight:800;font-size:28px;letter-spacing:-1.2px;text-decoration:none;color:#064d36;display:flex;align-items:center;gap:9px}.logo{display:inline-grid;place-items:center;width:43px;height:43px;border-radius:14px;background:linear-gradient(135deg,#d9ee52,#27c879 45%,#008c60);color:white;font-size:25px;font-weight:800}.lang{display:flex;gap:8px}.lang button{border:1px solid var(--line);border-radius:24px;padding:8px 14px;background:white;font-weight:650;color:var(--ink);cursor:pointer}.lang button.active{background:#174b37;color:white}h1{font-size:clamp(32px,5vw,52px);line-height:1.12;letter-spacing:-1.5px;margin:0 0 12px}h2{font-size:23px;letter-spacing:-.5px;margin:36px 0 10px}p,li{font-size:16px}a{color:#007c5a}.sub{font-size:18px;color:var(--muted)}.card{background:rgba(255,255,255,.84);border:1px solid #e7ebe4;border-radius:24px;padding:clamp(20px,4vw,38px);box-shadow:0 18px 45px #1b4e2710}.notice{background:#fff3c7;border-radius:12px;padding:12px 16px;color:#5d502c}.small{font-size:13px;color:var(--muted)}footer{padding:24px 0;text-align:center;color:var(--muted);font-size:14px}.links{display:flex;gap:16px;justify-content:center}.pill{display:inline-flex;background:#dcf3e6;border-radius:99px;padding:6px 14px;color:#24664c;font-weight:650;margin-bottom:20px}.faq{margin:22px 0;border-bottom:1px solid var(--line);padding-bottom:15px}.faq strong{display:block;margin-bottom:8px} body[lang=en]{display:none}body[data-lang=en] [lang=ru]{display:none}body[data-lang=en] [lang=en]{display:block}@media(max-width:600px){header{margin-bottom:34px}.card{padding:20px}.brand{font-size:25px}}
-</style></head><body><main><header><a class="brand" href="index.html"><span class="logo">P✦</span>Pikumi</a><div class="lang"><button type="button" data-setlang="ru">RU</button><button type="button" data-setlang="en">EN</button></div></header><section lang="ru"><span class="pill">Порядок в галерее</span><h1>Разбирай фото.<br>Оставляй любимое.</h1><p class="sub">Официальная информация и поддержка Pikumi.</p><div class="card"><h2><a href="privacy.html">Политика конфиденциальности →</a></h2><p>Как Pikumi работает с фотографиями, настройками и данными.</p><h2><a href="support.html">Поддержка →</a></h2><p>Ответы на вопросы и связь с разработчиком.</p></div></section><section lang="en"><span class="pill">A tidier gallery</span><h1>Swipe through photos.<br>Keep what matters.</h1><p class="sub">Official information and support for Pikumi.</p><div class="card"><h2><a href="privacy.html">Privacy Policy →</a></h2><p>How Pikumi handles your photos, settings, and information.</p><h2><a href="support.html">Support →</a></h2><p>Answers to questions and ways to reach the developer.</p></div></section><footer><div class="links"><a href="privacy.html">Privacy Policy</a><a href="support.html">Support</a></div><p>© 2026 Pikumi · <span lang="ru">Порядок в галерее</span><span lang="en">A tidier gallery</span></p></footer></main><script>function setLang(lang){document.body.dataset.lang=lang;document.documentElement.lang=lang;document.querySelectorAll('.lang button').forEach(b=>b.classList.toggle('active',b.dataset.setlang===lang));try{localStorage.setItem('pikumiLang',lang)}catch(e){}}document.querySelectorAll('.lang button').forEach(b=>b.addEventListener('click',()=>setLang(b.dataset.setlang)));let chosen='ru';try{chosen=localStorage.getItem('pikumiLang')||((navigator.language||'ru').toLowerCase().startsWith('ru')?'ru':'en')}catch(e){}setLang(chosen);</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Official information and support for the ad-free edition of Pikumi for iPhone.">
+<title>Home | Pikumi</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="alternate" hreflang="en" href="index.html">
+<link rel="alternate" hreflang="ru" href="ru/index.html">
+<link rel="alternate" hreflang="fr" href="fr/index.html">
+<link rel="alternate" hreflang="es" href="es/index.html">
+<link rel="alternate" hreflang="zh-Hans" href="zh-Hans/index.html">
+<link rel="alternate" hreflang="x-default" href="index.html">
+</head>
+<body>
+<a class="skip" href="#content">Skip to content</a>
+<main>
+<header>
+<a class="brand" href="index.html"><span class="logo" aria-hidden="true">P✦</span>Pikumi</a>
+<nav class="lang" aria-label="Language"><a href="index.html" lang="en" hreflang="en" aria-current="page">English</a><a href="ru/index.html" lang="ru" hreflang="ru">Русский</a><a href="fr/index.html" lang="fr" hreflang="fr">Français</a><a href="es/index.html" lang="es" hreflang="es">Español</a><a href="zh-Hans/index.html" lang="zh-Hans" hreflang="zh-Hans">简体中文</a></nav>
+</header>
+<article id="content">
+<span class="pill">A tidier photo library</span>
+<h1>Sort your photos. Keep what matters.</h1>
+<p class="sub">Official information and support for the ad-free edition of Pikumi for iPhone.</p>
+
+<div class="card"><h2><a href="privacy.html">Privacy Policy →</a></h2><p>How Pikumi uses photo access, stores progress, and handles support messages.</p><h2><a href="support.html">Support →</a></h2><p>Answers about photo access, deletion, iCloud, and using Pikumi.</p></div>
+</article>
+<footer><nav class="links" aria-label="Pikumi"><a href="privacy.html">Privacy Policy</a><a href="support.html">Support</a></nav><p>© 2026 Pikumi · Nikita Novikov</p></footer>
+</main>
+</body>
+</html>
